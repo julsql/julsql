@@ -10,7 +10,7 @@ I've done some websites, feel free to have a look:
 - 📝 [poeme.h.minet.net](http://juliettedebono.h.minet.net): A random French poeme generator
 - 💥 [bd.h.minet.net](http://juliettedebono.h.minet.net): My comics collection
 - 🧙 [lilianastrade.h.minet.net](http://lilianastrade.h.minet.net): A fictive magic card collection
-- 🤖 [jimi.h.minet.net/swagger-ui.html](http://jimi.h.minet.net/swagger-ui.html)): A Spring Boot project to manage your agenda using OpenAI
+- 🤖 [jimi.h.minet.net/swagger-ui.html](http://jimi.h.minet.net/swagger-ui.html): A Spring Boot project to manage your agenda using OpenAI
 
 Here are some Android apps I've made: 📱
 - [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator
