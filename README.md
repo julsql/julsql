@@ -9,7 +9,7 @@ I love Python 🐍, Java ☕️ and many other languages. I always try to have a
 I've done some websites, feel free to have a look:
 - 🙋‍♀️ [juliettedebono.h.minet.net](http://juliettedebono.h.minet.net): My portfolio
 - 🔐 [thecode.h.minet.net](http://juliettedebono.h.minet.net): A password generator
-- 📝 [poeme.h.minet.net](http://juliettedebono.h.minet.net): A random French poeme generator
+- 🪶 [poeme.h.minet.net](http://juliettedebono.h.minet.net): A random French poeme generator
 - 💥 [bd.h.minet.net](http://juliettedebono.h.minet.net): My comics collection
 - 🧙 [lilianastrade.h.minet.net](http://lilianastrade.h.minet.net): A fictive magic card collection
 - 🤖 [jimi.h.minet.net/swagger-ui.html](http://jimi.h.minet.net/swagger-ui.html): A Spring Boot project to manage your agenda using OpenAI
