@@ -7,19 +7,43 @@ I love Python 🐍, Java ☕️ and many other languages. I always try to have a
 ## 🌐 Websites
 
 I've done some websites, feel free to have a look:
-- 🙋‍♀️ [juliettedebono.h.minet.net](http://juliettedebono.h.minet.net): My portfolio (*[GitHub](https://github.com/juliette39/portfolio_website)*)
-- 🔐 [thecode.h.minet.net](http://juliettedebono.h.minet.net): A password generator (*[GitHub](https://github.com/TheCodeDevLab/thecode_website)*)
-- 🪶 [poeme.h.minet.net](http://juliettedebono.h.minet.net): A random French poeme generator (*[GitHub](https://github.com/juliette39/poeme_website)*)
+- 🙋‍♀️ [juliettedebono.h.minet.net](http://juliettedebono.h.minet.net): My portfolio 
+  <a href="https://github.com/juliette39/portfolio_website">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+- 🔐 [thecode.h.minet.net](http://juliettedebono.h.minet.net): A password generator
+  <a href="https://github.com/TheCodeDevLab/thecode_website">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+- 🪶 [poeme.h.minet.net](http://juliettedebono.h.minet.net): A random French poeme generator 
+  <a href="https://github.com/juliette39/poeme_website">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
 - 💥 [bd.h.minet.net](http://juliettedebono.h.minet.net): My comics collection
-- 🧙 [lilianastrade.h.minet.net](http://lilianastrade.h.minet.net): A fictive magic card collection (*[GitHub](https://github.com/juliette39/lilianastrade)*)
-- 🤖 [jimi.h.minet.net](http://jimi.h.minet.net): A Chat Boot project to manage your agenda using OpenAI (*[GitHub](https://github.com/JIMIDevLab/jimi_app)*)
-- 🤖 [jimi-api.h.minet.net/swagger-ui.html](http://jimi-api.h.minet.net/swagger-ui.html): The Spring Boot API for the Jimi project (*[GitHub](https://github.com/JIMIDevLab/jimi_api)*)
+- 🧙 [lilianastrade.h.minet.net](http://lilianastrade.h.minet.net): A fictive magic card collection 
+  <a href="https://github.com/juliette39/lilianastrade">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+- 🤖 [jimi.h.minet.net](http://jimi.h.minet.net): A Chat Boot project to manage your agenda using OpenAI 
+  <a href="https://github.com/JIMIDevLab/jimi_app">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+- 🤖 [jimi-api.h.minet.net/swagger-ui.html](http://jimi-api.h.minet.net/swagger-ui.html): The Spring Boot API for the Jimi project 
+  <a href="https://github.com/JIMIDevLab/jimi_api">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
 
 ## 📱 Android App
 
 Here are some Android apps I've made:
-- [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator (*[GitHub](https://github.com/TheCodeDevLab/TheCode_Android)*)
-- [Jimi](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot): A Chatbot that manage your agenda using OpenAI (*[GitHub](https://github.com/JIMIDevLab/jimi_app)*)
+- [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator 
+  <a href="[https://github.com/JIMIDevLab/jimi_api](https://github.com/TheCodeDevLab/TheCode_Android)">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+- [Jimi](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot): A Chatbot that manage your agenda using OpenAI 
+  <a href="https://github.com/JIMIDevLab/jimi_app">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
 
 ## 📌 Organizations
 
