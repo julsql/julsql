@@ -20,6 +20,39 @@ But there is still some projects not deployed yet, have a look on my github prof
 - [JIMIDevLab](https://github.com/JIMIDevLab): the organization of Jimi
 - [TheCodeDevLab](https://github.com/TheCodeDevLab): The organization of TheCode
 
+
+---
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=juliette39&show_icons=true&number_format=long&count_private=true&hide_rank=true&hide=contribs&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=juliette39&show_icons=true&number_format=long&count_private=true&hide_rank=true&hide=contribs"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliette39&show_icons=true&number_format=long&count_private=true&hide_rank=true&hide=contribs" />
+</picture>
+</div>
+
+---
+
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=juliette39&langs_count=10&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=juliette39&langs_count=10&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliette39&langs_count=10&layout=compact" />
+</picture>
+</div>
+
+
 <!--
 **juliette39/juliette39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
