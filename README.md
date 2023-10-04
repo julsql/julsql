@@ -24,7 +24,7 @@ I've done some websites, feel free to have a look:
   <a href="https://github.com/juliette39/lilianastrade">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 🤖 [jimi.h.minet.net](http://jimi.h.minet.net): A Chat Boot project to manage your agenda using OpenAI 
+- 🤖 [jimi.h.minet.net](http://jimi.h.minet.net/#/home): A Chat Boot project to manage your agenda using OpenAI 
   <a href="https://github.com/JIMIDevLab/jimi_app">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
