@@ -48,20 +48,20 @@ Here are some Android apps I've made:
 ## 📌 Organizations
 
 But there is still some projects not deployed yet, have a look on my github profile, or my organizations:
-- [JIMIDevLab](https://github.com/JIMIDevLab): the organization of Jimi
+- [JIMIDevLab](https://github.com/JIMIDevLab): The organization of Jimi
 - [TheCodeDevLab](https://github.com/TheCodeDevLab): The organization of TheCode
 
 ## 📚 Other
 
 I've made some other projects:
-- 🔓 [tipe_password](https://github.com/juliette39/tipe_password): School presentation for my preparatory class about passwords and security (hash, different attacks and rainbow tables).
-- 🛜 [cartographie_ble](https://github.com/juliette39/cartographie_ble): School project to get the neighbour of an ESP32 with Bluetooth Low Energy.
-- ✨ [cassiopee](https://github.com/juliette39/cassiopee): 6-month school project to vizualize a building in 3D (generate the json files and implement the website in Flutter).
-- ❄️ [igloo](https://github.com/juliette39/igloo): School Java project to make an activity tracking app.
-- 📝 [PoemApp](https://github.com/juliette39/PoemApp): Random French poem generator application in Python.
-- 📣 [reseau_social](https://github.com/juliette39/reseau_social): School project using the [B-Method](https://en.wikipedia.org/wiki/B-Method) to make the rules of a social network.
-- 🎥 [Films](https://github.com/juliette39/Films): Application to search for movies inside my personal database.
-- 📸 [QR_Code](https://github.com/juliette39/QR_Code): Small app to generate QR Codes. Not finished.
+- 🔓 [tipe_password](https://github.com/juliette39/tipe_password): School presentation for my preparatory class about passwords and security (hash, different attacks and rainbow tables)
+- 🛜 [cartographie_ble](https://github.com/juliette39/cartographie_ble): School project to get the neighbour of an ESP32 with Bluetooth Low Energy
+- ✨ [cassiopee](https://github.com/juliette39/cassiopee): 6-month school project to vizualize a building in 3D (generate the json files and implement the website in Flutter)
+- ❄️ [igloo](https://github.com/juliette39/igloo): School Java project to make an activity tracking app
+- 📝 [PoemApp](https://github.com/juliette39/PoemApp): Random French poem generator application in Python
+- 📣 [reseau_social](https://github.com/juliette39/reseau_social): School project using the [B-Method](https://en.wikipedia.org/wiki/B-Method) to make the rules of a social network
+- 🎥 [Films](https://github.com/juliette39/Films): Application to search for movies inside my personal database
+- 📸 [QR_Code](https://github.com/juliette39/QR_Code): Small app to generate QR Codes. Not finished
 
 ---
 <div align="center">
