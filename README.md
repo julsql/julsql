@@ -19,7 +19,7 @@ I've done some websites, feel free to have a look:
   <a href="https://github.com/juliette39/poeme_website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 💥 [bd.h.minet.net](http://juliettedebono.h.minet.net): My comics collection
+- 💬 [bd.h.minet.net](http://juliettedebono.h.minet.net): My comics collection
 - 🧙 [lilianastrade.h.minet.net](http://lilianastrade.h.minet.net): A fictive magic card collection 
   <a href="https://github.com/juliette39/lilianastrade">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
@@ -28,7 +28,7 @@ I've done some websites, feel free to have a look:
   <a href="https://github.com/JIMIDevLab/jimi_app">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 🤖 [jimi-api.h.minet.net/swagger-ui.html](http://jimi-api.h.minet.net/swagger-ui.html): The Spring Boot API for the Jimi project 
+- 📠 [jimi-api.h.minet.net/swagger-ui.html](http://jimi-api.h.minet.net/swagger-ui.html): The Spring Boot API for the Jimi project 
   <a href="https://github.com/JIMIDevLab/jimi_api">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
@@ -51,17 +51,17 @@ But there is still some projects not deployed yet, have a look on my github prof
 - [JIMIDevLab](https://github.com/JIMIDevLab): the organization of Jimi
 - [TheCodeDevLab](https://github.com/TheCodeDevLab): The organization of TheCode
 
-## Other
+## 📚 Other
 
 I've made some other projects:
-- [cartographie_ble](https://github.com/juliette39/cartographie_ble): School project to get the neighbour ESP32.
-- [tipe_password](https://github.com/juliette39/tipe_password): School presentation for my preparatory class about passwords and security (hash, different attacks and rainbow tables).
-- [cassiopee](https://github.com/juliette39/cassiopee): 6-months school project to vizualize a building in 3D (make the json files and make the website in Flutter).
-- [igloo](https://github.com/juliette39/igloo): School JAVA project to make a activity tracking app.
-- [PoemApp](https://github.com/juliette39/PoemApp): Random French poem generator applicaiton in Python.
-- [reseau_social](https://github.com/juliette39/reseau_social): School project of the B-method to make the rules of a social network.
-- [Films](https://github.com/juliette39/Films): Application to search for a movies inside my personal database.
-- [QR_Code](https://github.com/juliette39/QR_Code): Small app to generate QR Codes.
+- 🔓 [tipe_password](https://github.com/juliette39/tipe_password): School presentation for my preparatory class about passwords and security (hash, different attacks and rainbow tables).
+- 🛜 [cartographie_ble](https://github.com/juliette39/cartographie_ble): School project to get the neighbour of an ESP32 with Bluetooth Low Energy.
+- ✨ [cassiopee](https://github.com/juliette39/cassiopee): 6-month school project to vizualize a building in 3D (generate the json files and implement the website in Flutter).
+- ❄️ [igloo](https://github.com/juliette39/igloo): School Java project to make an activity tracking app.
+- 📝 [PoemApp](https://github.com/juliette39/PoemApp): Random French poem generator application in Python.
+- 📣 [reseau_social](https://github.com/juliette39/reseau_social): School project using the [B-Method](https://en.wikipedia.org/wiki/B-Method) to make the rules of a social network.
+- 🎥 [Films](https://github.com/juliette39/Films): Application to search for movies inside my personal database.
+- 📸 [QR_Code](https://github.com/juliette39/QR_Code): Small app to generate QR Codes. Not finished.
 
 ---
 <div align="center">
