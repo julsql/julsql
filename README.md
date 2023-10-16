@@ -11,15 +11,18 @@ I've done some websites, feel free to have a look:
   <a href="https://github.com/juliette39/portfolio_website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 🔐 [thecode.h.minet.net](http://juliettedebono.h.minet.net): A password generator
+- 🔐 [thecode.h.minet.net](http://thecode.h.minet.net): A password generator
   <a href="https://github.com/TheCodeDevLab/thecode_website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 🪶 [poeme.h.minet.net](http://juliettedebono.h.minet.net): A random French poeme generator 
+- 🪶 [poeme.h.minet.net](http://poeme.h.minet.net): A random French poeme generator 
   <a href="https://github.com/juliette39/poeme_website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 💬 [bd.h.minet.net](http://juliettedebono.h.minet.net): My comics collection
+- 💬 [bd.h.minet.net](http://bd.h.minet.net): My comics collection
+  <a href="https://github.com/juliette39/bd_website">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
 - 🧙 [lilianastrade.h.minet.net](http://lilianastrade.h.minet.net): A fictive magic card collection 
   <a href="https://github.com/juliette39/lilianastrade">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
@@ -54,6 +57,7 @@ But there is still some projects not deployed yet, have a look on my github prof
 ## 📚 Other
 
 I've made some other projects:
+- 💥 [bd](https://github.com/juliette39/bd): Application to add comics with data (title, writer…) from its ISBN, see the comics at [bd.h.minet.net](http://bd.h.minet.net)
 - 🔓 [tipe_password](https://github.com/juliette39/tipe_password): School presentation for my preparatory class about passwords and security (hash, different attacks and rainbow tables)
 - 🛜 [cartographie_ble](https://github.com/juliette39/cartographie_ble): School project to get the neighbour of an ESP32 with Bluetooth Low Energy
 - ✨ [cassiopee](https://github.com/juliette39/cassiopee): 6-month school project to vizualize a building in 3D (generate the json files and implement the website in Flutter)
