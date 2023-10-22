@@ -6,10 +6,6 @@ I love Python 🐍, Java ☕️ and many other languages. I always try to have a
 
 ## 🌐 Websites
 
-> :warning: **Warning !**
->
-> My websites are temporarily unavailable. It will come back soon ❤️‍🩹!
-
 I've done some websites, feel free to have a look:
 - 🙋‍♀️ [juliettedebono.h.minet.net](http://juliettedebono.h.minet.net): My portfolio 
   <a href="https://github.com/juliette39/portfolio_website">
