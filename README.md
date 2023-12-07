@@ -35,6 +35,10 @@ I've done some websites, feel free to have a look:
   <a href="https://github.com/JIMIDevLab/jimi_api">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
+- 🎧 [spodeezer.h.minet.net](http://spodeezer.h.minet.net): A Flask API to add a music to a playlist and other command between Deezer and Spotify
+  <a href="https://github.com/juliette39/spodeezer">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
 
 ## 📱 Android App
 
@@ -97,19 +101,3 @@ I've made some other projects:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliette39&langs_count=10&layout=compact" />
 </picture>
 </div>
-
-
-<!--
-**juliette39/juliette39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
