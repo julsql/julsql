@@ -7,10 +7,6 @@ I love Python 🐍, Java ☕️ and many other languages. I always try to have a
 ## 🌐 Websites
 
 I've done some websites, feel free to have a look:
-- 🙋‍♀️ [juliettedebono.h.minet.net](http://juliettedebono.h.minet.net): My portfolio 
-  <a href="https://github.com/juliette39/portfolio_website">
-    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
-  </a>
 - 🔐 [thecode.h.minet.net](http://thecode.h.minet.net): A password generator
   <a href="https://github.com/TheCodeDevLab/thecode_website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
