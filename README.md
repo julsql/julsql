@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Juliette, a French engineer who loves to code! 👩‍💻
+I'm Jul SQL, a French engineer who loves to code! 👩‍💻
 
 I love Python 🐍, Java ☕️ and many other languages. I always try to have a project in progress, whether personal or for school. I hope you will be as enthusiastic about my projects as I am about them! 🤩
 
@@ -40,7 +40,7 @@ I've done some websites, feel free to have a look:
 
 Here are some Android apps I've made:
 - [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator 
-  <a href="[https://github.com/JIMIDevLab/jimi_api](https://github.com/TheCodeDevLab/TheCode_Android)">
+  <a href="https://github.com/TheCodeDevLab/TheCode_Android">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
 
