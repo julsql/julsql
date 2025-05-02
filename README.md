@@ -7,6 +7,10 @@ I love Python 🐍, Java ☕️ and many other languages. I always try to have a
 ## 🌐 Websites
 
 I've done some websites, feel free to have a look:
+- 🦜 [especes.julsql.fr](http://especes.julsql.fr): Photos of species around the world (including an API to add photo with specie name and get specie details and metadata)
+  <a href="https://github.com/julsql/nature">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
 - 🔐 [thecode.julsql.fr](http://thecode.julsql.fr): A password generator
   <a href="https://github.com/TheCodeDevLab/thecode_website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
@@ -36,10 +40,18 @@ I've done some websites, feel free to have a look:
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
 
+## 💽 Softwares
+
+Here some softwares I created
+- [Exif Tools](https://github.com/julsql/exif-tools/releases/latest): A Python Tkinter app to change metadata of pictures (taken date, GPS coordinates)
+  <a href="[https://github.com/TheCodeDevLab/TheCode_Android](https://github.com/julsql/exif-tools/tree/1.0.3)">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+  
 ## 📱 Android App
 
 Here are some Android apps I've made:
-- [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator 
+- [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator (❌ Not available anymore)
   <a href="https://github.com/TheCodeDevLab/TheCode_Android">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
