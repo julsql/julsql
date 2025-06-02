@@ -51,7 +51,7 @@ Here some softwares I created
 ## 📱 Android App
 
 Here are some Android apps I've made:
-- [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator (❌ Not available anymore)
+- [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator
   <a href="https://github.com/TheCodeDevLab/TheCode_Android">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
