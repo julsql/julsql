@@ -7,7 +7,7 @@ I love Python 🐍, Java ☕️ and many other languages. I always try to have a
 ## 🌐 Websites
 
 I've done some websites, feel free to have a look:
-- 🦜 [especes.julsql.fr](http://especes.julsql.fr): Photos of species around the world (including an API to add photo with specie name and get specie details and metadata)
+- 🦜 [speciarium.julsql.fr](http://speciarium.julsql.fr): Photos of species around the world (including an API to add photo with specie name and get specie details and metadata)
   <a href="https://github.com/julsql/nature">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
@@ -19,7 +19,7 @@ I've done some websites, feel free to have a look:
   <a href="https://github.com/julsql/poeme_website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 💬 [bd.julsql.fr](http://bd.julsql.fr): My comics collection (including an API to add data of comics (title, writer…) from its ISBN)
+- 💬 [codexio.julsql.fr](http://codexio.julsql.fr): My comics/book collection (including an API to add data of comics (title, writer…) from its ISBN)
   <a href="https://github.com/julsql/bd_website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
