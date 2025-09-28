@@ -27,14 +27,6 @@ I've done some websites, feel free to have a look:
   <a href="https://github.com/julsql/lilianastrade">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 🤖 [jimi.julsql.fr](http://jimi.julsql.fr/#/home): A Chat Boot project to manage your agenda using OpenAI 
-  <a href="https://github.com/JIMIDevLab/jimi_app">
-    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
-  </a>
-- 📠 [jimi-api.julsql.fr/swagger-ui.html](http://jimi-api.julsql.fr/swagger-ui.html): The Spring Boot API for the Jimi project 
-  <a href="https://github.com/JIMIDevLab/jimi_api">
-    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
-  </a>
 - 🎧 [spodeezer.julsql.fr](http://spodeezer.julsql.fr): A Flask API to add a music to a playlist and other command between Deezer and Spotify
   <a href="https://github.com/julsql/spodeezer">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
@@ -59,7 +51,6 @@ Here are some Android apps I've made:
 ## 📌 Organizations
 
 But there is still some projects not deployed yet, have a look on my github profile, or my organizations:
-- [JIMIDevLab](https://github.com/JIMIDevLab): The organization of Jimi
 - [TheCodeDevLab](https://github.com/TheCodeDevLab): The organization of TheCode
 
 ## 📚 Other
