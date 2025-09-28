@@ -12,7 +12,7 @@ I've done some websites, feel free to have a look:
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
 - 🔐 [thecode.julsql.fr](http://thecode.julsql.fr): A password generator
-  <a href="https://github.com/TheCodeDevLab/thecode_website">
+  <a href="https://github.com/TheCodeDevLab/thecode-website">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
 - 🪶 [poeme.julsql.fr](http://poeme.julsql.fr): A random French poeme generator 
