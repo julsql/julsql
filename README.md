@@ -56,6 +56,14 @@ But there is still some projects not deployed yet, have a look on my github prof
 ## 📚 Other
 
 I've made some other projects:
+- 🤖 [jimi.julsql.fr](http://jimi.julsql.fr/#/home): A Chat Boot project to manage your agenda using OpenAI 
+  <a href="https://github.com/JIMIDevLab/jimi_app">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+- 📠 [jimi-api.julsql.fr](http://jimi-api.julsql.fr/swagger-ui.html): The Spring Boot API for the Jimi project 
+  <a href="https://github.com/JIMIDevLab/jimi_api">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
 - 🔓 [tipe_password](https://github.com/julsql/tipe_password): School presentation for my preparatory class about passwords and security (hash, different attacks and rainbow tables)
 - 🛜 [cartographie_ble](https://github.com/julsql/cartographie_ble): School project to get the neighbour of an ESP32 with Bluetooth Low Energy
 - ✨ [cassiopee](https://github.com/julsql/cassiopee): 6-month school project to vizualize a building in 3D (generate the json files and implement the website in Flutter)
