@@ -36,7 +36,7 @@ I've done some websites, feel free to have a look:
 
 Here some softwares I created
 - [Exif Tools](https://github.com/julsql/exif-tools/releases/latest): A Python Tkinter app to change metadata of pictures (taken date, GPS coordinates)
-  <a href="[https://github.com/TheCodeDevLab/TheCode_Android](https://github.com/julsql/exif-tools/tree/1.0.3)">
+  <a href="https://github.com/julsql/exif-tools">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
   
