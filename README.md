@@ -35,22 +35,45 @@ I've done some websites, feel free to have a look:
 ## 💽 Softwares
 
 Here some softwares I created
-- [Exif Tools](https://github.com/julsql/exif-tools/releases/latest): A Python Tkinter app to change metadata of pictures (taken date, GPS coordinates)
+- [Exif Tools](https://github.com/julsql/exif-tools/releases/latest): A Python app to change metadata of pictures (taken date, GPS coordinates). AI feature to detect the species on the picture
   <a href="https://github.com/julsql/exif-tools">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
   
-## 📱 Android App
+## 📱 Mobile App
 
-Here are some Android apps I've made:
-- [TheCode](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator
+Here are some Mobile apps I've made:
+- [TheCode Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode): A password generator
   <a href="https://github.com/TheCodeDevLab/TheCode_Android">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+  
+- [TheCode iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043): A password generator
+  <a href="https://github.com/TheCodeDevLab/thecode-apple">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+
+## Extension
+
+Here some extension créate of various navigator:
+- [TheCode Chrome Entention](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen): A password generator
+  <a href="https://github.com/TheCodeDevLab/thecode-extension">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+  
+- [TheCode Firefox Entention](https://addons.mozilla.org/fr/firefox/addon/thecode/): A password generator
+  <a href="https://github.com/TheCodeDevLab/thecode-extension">
+    <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+  </a>
+  
+- [TheCode Safari Entention](https://apps.apple.com/app/thecode-password-manager/id6753169043): A password generator
+  <a href="https://github.com/TheCodeDevLab/thecode-extension">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
 
 ## 📌 Organizations
 
-But there is still some projects not deployed yet, have a look on my github profile, or my organizations:
+Have a look on my organizations:
 - [TheCodeDevLab](https://github.com/TheCodeDevLab): The organization of TheCode
 
 ## 📚 Other
@@ -64,14 +87,6 @@ I've made some other projects:
   <a href="https://github.com/JIMIDevLab/jimi_api">
     <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
   </a>
-- 🔓 [tipe_password](https://github.com/julsql/tipe_password): School presentation for my preparatory class about passwords and security (hash, different attacks and rainbow tables)
-- 🛜 [cartographie_ble](https://github.com/julsql/cartographie_ble): School project to get the neighbour of an ESP32 with Bluetooth Low Energy
-- ✨ [cassiopee](https://github.com/julsql/cassiopee): 6-month school project to vizualize a building in 3D (generate the json files and implement the website in Flutter)
-- ❄️ [igloo](https://github.com/julsql/igloo): School Java project to make an activity tracking app
-- 📝 [PoemApp](https://github.com/julsql/PoemApp): Random French poem generator application in Python
-- 📣 [reseau_social](https://github.com/julsql/reseau_social): School project using the [B-Method](https://en.wikipedia.org/wiki/B-Method) to make the rules of a social network
-- 🎥 [Films](https://github.com/julsql/Films): Application to search for movies inside my personal database
-- 📸 [QR_Code](https://github.com/julsql/QR_Code): Small app to generate QR Codes. Not finished
 
 ---
 <div align="center">
