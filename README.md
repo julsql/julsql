@@ -4,6 +4,14 @@ I'm Jul SQL, a French engineer who loves to code! 👩‍💻
 
 I enjoy building full-stack applications, mobile apps, APIs and experimenting with AI integrations. I usually have multiple projects in progress at the same time, from prototypes to production systems.
 
+## 🧰 Main Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
 ---
 
 ## 🚧 Currently working on
