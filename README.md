@@ -8,42 +8,21 @@ I enjoy building full-stack applications, mobile apps, APIs and experimenting wi
 
 ## 🚧 Currently working on
 
-Here are the projects I'm actively improving right now:
-
-### 🔐 TheCode ecosystem
-I’m currently working on evolving TheCode into a complete cross-platform security ecosystem:
-- modernize the Android application
-- unify UI/UX across web, mobile and browser extensions
-- improve secure cross-device synchronization
-
-👉 Long-term goal: a fully consistent and seamless cross-platform password manager.
----
-
-### 🦜 Speciarium
-Ongoing improvements:
-- improve activity tracking accuracy and reporting consistency
-- enhance yearly recap and insights
-
-👉 Long-term idea: add social features to increase user engagement.
+- 🔐 TheCode ecosystem: modernize the Android application
+- 🦜 Speciarium: improve activity tracking accuracy and yearly recap
 
 ---
 
 ## 🚀 Featured Project
 
 ## 🔐 TheCode (main project)
-A cross-platform security ecosystem for password generation and management.
+A cross-platform password ecosystem based on deterministic generation.
 
-TheCode is a deterministic password generator: it derives unique, strong passwords from a secret key and the website name, without ever storing them anywhere.
+TheCode generates unique and strong passwords from a master key and the website name, without storing any credentials.
 
-This approach ensures:
-- no password database
-- no synchronization risk
-- no exposed credentials
-- consistent passwords across all devices
+This approach removes the need for a password database, eliminates synchronization risks, and ensures consistent passwords across all devices.
 
-Users only need to remember a single master key to regenerate secure, unique passwords for every service.
-
-The system is available across web, mobile and browser extensions, providing a unified and consistent experience.
+Available on web, mobile, and browser extensions for a unified experience.
 
 ### 🌐 Web App
 🔗 [thecode.julsql.fr](https://thecode.julsql.fr) 
@@ -64,13 +43,14 @@ The system is available across web, mobile and browser extensions, providing a u
 </a>
 
 ### 🧩 Browser Extensions 
-<a href="https://github.com/TheCodeDevLab/thecode-extension">
-  <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
-</a>
 
 - [Chrome](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen)
 - [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/)
 - [Safari](https://apps.apple.com/app/thecode-password-manager/id6753169043)
+
+<a href="https://github.com/TheCodeDevLab/thecode-extension">
+  <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+</a>
 
 ---
 
