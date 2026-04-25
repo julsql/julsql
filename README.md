@@ -24,6 +24,14 @@ I enjoy building full-stack applications, mobile apps, APIs and experimenting wi
 ## 🚀 Featured Project
 
 ## 🔐 TheCode (main project)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white)
+
 A cross-platform password ecosystem based on deterministic generation.
 
 TheCode generates unique and strong passwords from a master key and the website name, without storing any credentials.
@@ -50,19 +58,20 @@ Available on web, mobile, and browser extensions for a unified experience.
   <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
 </a>
 
-### 🧩 Browser Extensions 
+### 🧩 Browser Extensions <a href="https://github.com/TheCodeDevLab/thecode-extension"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 - [Chrome](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen)
 - [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/)
 - [Safari](https://apps.apple.com/app/thecode-password-manager/id6753169043)
 
-<a href="https://github.com/TheCodeDevLab/thecode-extension">
-  <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
-</a>
-
 ---
 
 ## 🦜 Speciarium
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 A species discovery platform where users can document and organize all the species they have encountered.
 
 Users can upload photos of observed species, automatically geolocated on an interactive map. Each entry is enriched with species metadata and global statistics (e.g. number of different mammals observed worldwide).
@@ -77,6 +86,8 @@ The platform also allows users to explore public collections from others, with a
 ---
 
 ## 📸 Exif Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
 Python-based tool for image metadata editing (GPS, timestamps) with AI-powered species detection.
 
 🔗 https://github.com/julsql/exif-tools/releases/latest 
@@ -87,6 +98,10 @@ Python-based tool for image metadata editing (GPS, timestamps) with AI-powered s
 ---
 
 ## 💬 Codexio
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
 Books & comics collection manager with ISBN API integration.
 
 🔗 [codexio.julsql.fr](http://codexio.julsql.fr) 
@@ -96,26 +111,39 @@ Books & comics collection manager with ISBN API integration.
 
 ---
 
-## 🤖 Jimi
-- currently under refactoring
-- improving conversational scheduling flow
-- enhancing OpenAI-based task parsing
+## 🪶 Poem generator
 
-👉 API and frontend are temporarily unavailable during redevelopment.
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+Web generator of French poems respecting a free form (sonnet, haiku, ballad…) with imposed rhymes and meters.
+
+🔗 [poeme.julsql.fr](http://poeme.julsql.fr) 
+  <a href="https://github.com/julsql/poeme_website">
+  <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
+</a>
 
 ---
 
 ## 🧪 Other projects
 
-- 🪶 Poème generator → [poeme.julsql.fr](http://poeme.julsql.fr) 
-  <a href="https://github.com/julsql/poeme_website">
+- 🤖 Jimi (Chatbot to manage agenda) 
+  <a href="https://github.com/JIMIDevLab">
   <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
 </a>
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 - 🎧 Spodeezer (Spotify / Deezer bridge) 
   <a href="https://github.com/julsql/spodeezer">
   <img src="images/github_white.png" alt="logo github" width="15" height="15"/>
 </a>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
 ---
 
