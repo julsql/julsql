@@ -132,24 +132,7 @@ An AI Chatbot to manage agenda. Available as a website or mobile application.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=julsql&show_icons=true&number_format=long&count_private=true&hide_rank=true&hide=contribs&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=julsql&show_icons=true&number_format=long&count_private=true&hide_rank=true&hide=contribs" />
-</picture>
-</div>
-
+![Stats](./profile/stats.svg)
 ---
+![Top Languages](./profile/top-langs.svg)
 
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=julsql&langs_count=10&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julsql&langs_count=10&layout=compact" />
-</picture>
-</div>
