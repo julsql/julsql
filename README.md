@@ -16,8 +16,7 @@ I enjoy building full-stack applications, mobile apps, APIs and experimenting wi
 
 ## 🚧 Currently working on
 
-- 🔐 TheCode ecosystem: modernize the Android application
-- 💬 Codexio: pptimized data pipeline for accuracy and efficiency 
+- 🔐 TheCode ecosystem: have a better mobile workflow
 
 ---
 
