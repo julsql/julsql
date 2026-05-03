@@ -118,9 +118,9 @@ An AI Chatbot to manage agenda. Available as a website or mobile application.
 
 🔗 API: [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/) <a href="https://github.com/JIMIDevLab/jimi_api"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
-📱 Mobile apps:  
-- Android: [Google Play link](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=fr)  
-- iOS: Not available yet
+📱 Mobile apps:
+- [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
+- [iOS](https://apps.apple.com/app/) (Not available yet)
 
 ---
 
