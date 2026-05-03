@@ -44,7 +44,7 @@ Available on web, mobile, and browser extensions for a unified experience.
 
 ### 📱 Mobile Apps
 
-- [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode) <a href="https://github.com/TheCodeDevLab/thecode-android"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+- [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en) <a href="https://github.com/TheCodeDevLab/thecode-android"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 - [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043) <a href="https://github.com/TheCodeDevLab/thecode-apple"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
