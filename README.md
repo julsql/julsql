@@ -8,8 +8,13 @@ I enjoy building full-stack applications, mobile apps, APIs and experimenting wi
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
@@ -28,6 +33,7 @@ I enjoy building full-stack applications, mobile apps, APIs and experimenting wi
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white)
 
@@ -54,6 +60,10 @@ Available on web, mobile, and browser extensions for a unified experience.
 - [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/)
 - [Safari](https://apps.apple.com/app/thecode-password-manager/id6753169043)
 
+### ⌨️ Command tool
+
+- Command line <a href="https://github.com/TheCodeDevLab/thecode-cli"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+
 ---
 
 ## 🦜 Speciarium
@@ -73,7 +83,10 @@ The platform also allows users to explore public collections from others, with a
 ---
 
 ## 📸 Exif Tools
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/-PyQt6-41CD52?logo=qt&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 Python-based tool for image metadata editing (GPS, timestamps) with AI-powered species detection.
 
@@ -98,6 +111,8 @@ Books & comics collection manager with ISBN API integration.
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 
 Web generator of French poems respecting a free form (sonnet, haiku, ballad…) with imposed rhymes and meters.
 
@@ -108,8 +123,9 @@ Web generator of French poems respecting a free form (sonnet, haiku, ballad…) 
 ## 🤖 JIMI
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 
 An AI Chatbot to manage agenda. Available as a website or mobile application.
 
