@@ -88,7 +88,7 @@ Python-based tool for image metadata editing (GPS, timestamps) with AI-powered s
 
 Books & comics collection manager with ISBN API integration.
 
-🔗 [codexio.julsql.fr](http://codexio.julsql.fr) <a href="https://github.com/julsql/codexio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [codexio.julsql.fr](https://codexio.julsql.fr) <a href="https://github.com/julsql/codexio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ---
 
@@ -120,6 +120,20 @@ An AI Chatbot to manage agenda. Available as a website or mobile application.
 📱 Mobile apps:
 - [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
 - [iOS](https://apps.apple.com/app/) (Not available yet)
+
+---
+
+## 🧙‍♀️ Lilianastrade
+
+![PHP](https://img.shields.io/badge/-PHP_8.3-777BB4?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony_5.4-000000?logo=symfony&logoColor=white)
+![Doctrine](https://img.shields.io/badge/-Doctrine_ORM-FC6A31?logo=doctrine&logoColor=white)
+![Twig](https://img.shields.io/badge/-Twig-1A1A1A?logo=twig&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white)
+
+A web app for managing a Magic: The Gathering card collection (cards, decks, merchants, editions).
+  
+🔗 [lilianastrade.julsql.fr](https://lilianastrade.julsql.fr) <a href="https://github.com/julsql/lilianastrade"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ---
 
