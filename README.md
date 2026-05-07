@@ -92,7 +92,7 @@ Books & comics collection manager with ISBN API integration.
 
 ---
 
-## 🪶 Poem generator
+## 🪶 Rimbot
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
@@ -101,7 +101,7 @@ Books & comics collection manager with ISBN API integration.
 
 Web generator of French poems respecting a free form (sonnet, haiku, ballad…) with imposed rhymes and meters.
 
-🔗 [poeme.julsql.fr](http://poeme.julsql.fr) <a href="https://github.com/julsql/poeme_website"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [rimbot.julsql.fr](http://rimbot.julsql.fr) <a href="https://github.com/julsql/rimbot"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ---
 
