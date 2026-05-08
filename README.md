@@ -21,6 +21,7 @@ I enjoy building full-stack applications, mobile apps, APIs and experimenting wi
 
 ## 🚧 Currently working on
 
+- 🤖 Jimi: Add connection to persist the data, link to your real agenda
 - 🔐 TheCode ecosystem: have a better mobile workflow
 
 ---
