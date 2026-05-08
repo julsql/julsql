@@ -83,6 +83,25 @@ The platform also allows users to explore public collections from others, with a
 
 ---
 
+## 🤖 JIMI
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
+
+An AI Chatbot to manage agenda. Available as a website or mobile application.
+
+🔗 Web app: [jimi.julsql.fr](http://jimi.julsql.fr) <a href="https://github.com/JIMIDevLab/jimi_app"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+
+🔗 API: [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/) <a href="https://github.com/JIMIDevLab/jimi_api"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+
+📱 Mobile apps:
+- [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
+- [iOS](https://apps.apple.com/fr/app/jimi-the-chatbot/id6764839053)
+
+---
+
 ## 📸 Exif Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -118,25 +137,6 @@ Books & comics collection manager with ISBN API integration.
 Web generator of French poems respecting a free form (sonnet, haiku, ballad…) with imposed rhymes and meters.
 
 🔗 [rimbot.julsql.fr](http://rimbot.julsql.fr) <a href="https://github.com/julsql/rimbot"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
-
----
-
-## 🤖 JIMI
-
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
-
-An AI Chatbot to manage agenda. Available as a website or mobile application.
-
-🔗 Web app: [jimi.julsql.fr](http://jimi.julsql.fr) <a href="https://github.com/JIMIDevLab/jimi_app"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
-
-🔗 API: [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/) <a href="https://github.com/JIMIDevLab/jimi_api"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
-
-📱 Mobile apps:
-- [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
-- [iOS](https://apps.apple.com/fr/app/jimi-the-chatbot/id6764839053)
 
 ---
 
