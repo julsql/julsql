@@ -135,7 +135,7 @@ An AI Chatbot to manage agenda. Available as a website or mobile application.
 
 📱 Mobile apps:
 - [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
-- [iOS](https://apps.apple.com/app/) (Not available yet)
+- [iOS](https://apps.apple.com/fr/app/jimi-the-chatbot/id6764839053)
 
 ---
 
