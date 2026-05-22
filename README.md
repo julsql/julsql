@@ -4,6 +4,18 @@ I'm Jul SQL, a French engineer who loves to code! 👩‍💻
 
 I enjoy building full-stack applications, mobile apps, APIs and experimenting with AI integrations. I usually have multiple projects in progress at the same time, from prototypes to production systems.
 
+---
+
+## 🕹️ Interactive Portfolio
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
+A playable, retro **Zelda-style portfolio** where every production project is a place to explore on the map. Grab the sword, free Princess Zelda, and walk onto each project's landmark to discover it! Bilingual (FR/EN), with chiptune audio and full keyboard & mouse navigation.
+
+🔗 [portfolio.julsql.fr](https://portfolio.julsql.fr) <a href="https://github.com/julsql/portfolio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+
 ## 🧰 Main Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
@@ -166,4 +178,3 @@ A web app for managing a Magic: The Gathering card collection (cards, decks, mer
 ![Stats](./profile/stats.svg)
 ---
 ![Top Languages](./profile/top-langs.svg)
-
