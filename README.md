@@ -33,7 +33,7 @@ A playable, retro **Zelda-style portfolio** where every production project is a 
 
 ## 🚧 Currently working on
 
-- 🤖 Jimi: Add connection to persist the data, link to your real agenda
+- 🦜 Speciarium: Full refacto of the front for better experience
 - 🔐 TheCode ecosystem: have a better mobile workflow
 
 ---
