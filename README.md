@@ -34,7 +34,6 @@ A playable, retro **Zelda-style portfolio** where every production project is a 
 ## 🚧 Currently working on
 
 - 🦜 Speciarium: Full refacto of the front for better experience
-- 🔐 TheCode ecosystem: have a better mobile workflow
 
 ---
 
