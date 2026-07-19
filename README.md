@@ -33,6 +33,7 @@ A playable, retro **Zelda-style portfolio** where every production project is a 
 
 ## 🚧 Currently working on
 
+- ⚡️ Flowpedia: [New project] A infinite flow of wikipedia page to always learn new stuff!
 - 🦜 Speciarium: Full refacto of the front for better experience
 
 ---
