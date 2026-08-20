@@ -59,15 +59,15 @@ This approach removes the need for a password database, eliminates synchronizati
 Available on web, mobile, and browser extensions for a unified experience.
 
 ### 🌐 Web App
-🔗 [thecode.julsql.fr](https://thecode.julsql.fr) <a href="https://github.com/TheCodeDevLab/thecode-website"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [thecode.julsql.fr](https://thecode.julsql.fr) <a href="https://github.com/julsql/thecode-website"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ### 📱 Mobile Apps
 
-- [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en) <a href="https://github.com/TheCodeDevLab/thecode-android"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+- [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en) <a href="https://github.com/julsql/thecode-android"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
-- [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043) <a href="https://github.com/TheCodeDevLab/thecode-apple"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+- [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043) <a href="https://github.com/julsql/thecode-apple"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
-### 🧩 Browser Extensions <a href="https://github.com/TheCodeDevLab/thecode-extension"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+### 🧩 Browser Extensions <a href="https://github.com/julsql/thecode-extension"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 - [Chrome](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen)
 - [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/)
@@ -75,7 +75,7 @@ Available on web, mobile, and browser extensions for a unified experience.
 
 ### ⌨️ Command tool
 
-- Command line <a href="https://github.com/TheCodeDevLab/thecode-cli"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+- Command line <a href="https://github.com/julsql/thecode-cli"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ---
 
@@ -104,9 +104,9 @@ The platform also allows users to explore public collections from others, with a
 
 An AI Chatbot to manage agenda. Available as a website or mobile application.
 
-🔗 Web app: [jimi.julsql.fr](http://jimi.julsql.fr) <a href="https://github.com/JIMIDevLab/jimi_app"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 Web app: [jimi.julsql.fr](http://jimi.julsql.fr) <a href="https://github.com/julsql/jimi_app"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
-🔗 API: [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/) <a href="https://github.com/JIMIDevLab/jimi_api"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 API: [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/) <a href="https://github.com/julsql/jimi_api"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 📱 Mobile apps:
 - [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
@@ -168,8 +168,8 @@ A web app for managing a Magic: The Gathering card collection (cards, decks, mer
 
 ## 📌 Organizations
 
-- [TheCodeDevLab](https://github.com/TheCodeDevLab)
-- [JIMIDevLab](https://github.com/JIMIDevLab)
+- [julsql](https://github.com/julsql)
+- [julsql](https://github.com/julsql)
 
 ---
 
