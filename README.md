@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Jul SQL, a French engineer who loves to code! 👩‍💻
+I'm JulSql, a French full-stack software engineer who loves to code! 👩‍💻
 
-I enjoy building full-stack applications, mobile apps, APIs and experimenting with AI integrations. I usually have multiple projects in progress at the same time, from prototypes to production systems.
+I enjoy building full-stack applications, mobile apps and APIs, from prototypes to production systems used by real people.
 
 ---
 
@@ -17,15 +17,16 @@ A playable, retro **Zelda-style portfolio** where every production project is a 
 🔗 [portfolio.julsql.fr](https://portfolio.julsql.fr) <a href="https://github.com/julsql/portfolio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ## 🧰 Main Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?logo=quarkus&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
@@ -166,15 +167,9 @@ A web app for managing a Magic: The Gathering card collection (cards, decks, mer
 
 ---
 
-## 📌 Organizations
-
-- [julsql](https://github.com/julsql)
-- [julsql](https://github.com/julsql)
-
----
-
 ## 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)
----
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" height="180"/>
+  <img src="./profile/top-langs.svg" alt="Top languages" height="180"/>
+</p>
