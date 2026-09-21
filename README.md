@@ -33,7 +33,7 @@ I enjoy building full-stack applications, mobile apps and APIs, from prototypes 
 
 ## 🚀 Featured Project
 
-## 🔐 TheCode (main project) <a href="https://github.com/julsql/thecode"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+## 🔐 TheCode (main project) <a href="https://github.com/julsql/thecode"><img src="images/github-icon.svg" alt="GitHub" width="16" height="16"/></a>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
@@ -61,7 +61,7 @@ Available on web, mobile, and browser extensions for a unified experience.
 
 ---
 
-## 🦜 Speciarium <a href="https://github.com/julsql/speciarium"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+## 🦜 Speciarium <a href="https://github.com/julsql/speciarium"><img src="images/github-icon.svg" alt="GitHub" width="16" height="16"/></a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
@@ -77,7 +77,7 @@ The platform also allows users to explore public collections from others, with a
 
 ---
 
-## 🕹️ Interactive Portfolio <a href="https://github.com/julsql/portfolio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+## 🕹️ Interactive Portfolio <a href="https://github.com/julsql/portfolio"><img src="images/github-icon.svg" alt="GitHub" width="16" height="16"/></a>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -89,7 +89,7 @@ A playable, retro **Zelda-style portfolio** where every production project is a 
 
 ---
 
-## 🤖 JIMI <a href="https://github.com/julsql/jimi"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+## 🤖 JIMI <a href="https://github.com/julsql/jimi"><img src="images/github-icon.svg" alt="GitHub" width="16" height="16"/></a>
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
@@ -106,7 +106,7 @@ An AI Chatbot to manage agenda. Available as a website or mobile application.
 
 ---
 
-## 📸 Exif Tools <a href="https://github.com/julsql/exif-tools"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+## 📸 Exif Tools <a href="https://github.com/julsql/exif-tools"><img src="images/github-icon.svg" alt="GitHub" width="16" height="16"/></a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/-PyQt6-41CD52?logo=qt&logoColor=white)
@@ -118,7 +118,7 @@ Python-based tool for image metadata editing (GPS, timestamps) with AI-powered s
 
 ---
 
-## 💬 Codexio <a href="https://github.com/julsql/codexio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+## 💬 Codexio <a href="https://github.com/julsql/codexio"><img src="images/github-icon.svg" alt="GitHub" width="16" height="16"/></a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
@@ -129,7 +129,7 @@ Books & comics collection manager with ISBN API integration.
 
 ---
 
-## 🪶 Rimbot <a href="https://github.com/julsql/rimbot"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+## 🪶 Rimbot <a href="https://github.com/julsql/rimbot"><img src="images/github-icon.svg" alt="GitHub" width="16" height="16"/></a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
@@ -144,7 +144,7 @@ Web generator of French poems respecting a free form (sonnet, haiku, ballad…) 
 
 ---
 
-## 🧙‍♀️ Lilianastrade <a href="https://github.com/julsql/lilianastrade"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+## 🧙‍♀️ Lilianastrade <a href="https://github.com/julsql/lilianastrade"><img src="images/github-icon.svg" alt="GitHub" width="16" height="16"/></a>
 
 ![PHP](https://img.shields.io/badge/-PHP_8.3-777BB4?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony_5.4-000000?logo=symfony&logoColor=white)
