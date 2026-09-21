@@ -51,27 +51,13 @@ This approach removes the need for a password database, eliminates synchronizati
 
 Available on web, mobile, and browser extensions for a unified experience.
 
-### 🌐 Web App
-🔗 [thecode.julsql.fr](https://thecode.julsql.fr)
-
-### 🔌 API
-🔗 [thecode-api.julsql.fr](https://thecode-api.julsql.fr)
-
-### 📱 Mobile Apps
-
-- [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en)
-
-- [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043)
-
-### 🧩 Browser Extensions
-
-- [Chrome](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen)
-- [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/)
-- [Safari](https://apps.apple.com/app/thecode-password-manager/id6753169043)
-
-### ⌨️ Command tool
-
-- Command line
+| Platform | Links |
+|---|---|
+| 🌐 Web | [thecode.julsql.fr](https://thecode.julsql.fr) |
+| 🔌 API | [thecode-api.julsql.fr](https://thecode-api.julsql.fr) |
+| 📱 Mobile | [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en) · [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043) |
+| 🧩 Extensions | [Chrome](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen) · [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/) · [Safari](https://apps.apple.com/app/thecode-password-manager/id6753169043) |
+| ⌨️ CLI | Command line |
 
 ---
 
