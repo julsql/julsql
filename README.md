@@ -54,6 +54,9 @@ Available on web, mobile, and browser extensions for a unified experience.
 ### 🌐 Web App
 🔗 [thecode.julsql.fr](https://thecode.julsql.fr)
 
+### 🔌 API
+🔗 [thecode-api.julsql.fr](https://thecode-api.julsql.fr)
+
 ### 📱 Mobile Apps
 
 - [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en)
