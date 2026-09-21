@@ -41,7 +41,7 @@ A playable, retro **Zelda-style portfolio** where every production project is a 
 
 ## 🚀 Featured Project
 
-## 🔐 TheCode (main project)
+## 🔐 TheCode (main project) <a href="https://github.com/julsql/thecode"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
@@ -60,15 +60,15 @@ This approach removes the need for a password database, eliminates synchronizati
 Available on web, mobile, and browser extensions for a unified experience.
 
 ### 🌐 Web App
-🔗 [thecode.julsql.fr](https://thecode.julsql.fr) <a href="https://github.com/julsql/thecode-website"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [thecode.julsql.fr](https://thecode.julsql.fr)
 
 ### 📱 Mobile Apps
 
-- [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en) <a href="https://github.com/julsql/thecode-android"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+- [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en)
 
-- [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043) <a href="https://github.com/julsql/thecode-apple"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+- [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043)
 
-### 🧩 Browser Extensions <a href="https://github.com/julsql/thecode-extension"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+### 🧩 Browser Extensions
 
 - [Chrome](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen)
 - [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/)
@@ -76,7 +76,7 @@ Available on web, mobile, and browser extensions for a unified experience.
 
 ### ⌨️ Command tool
 
-- Command line <a href="https://github.com/julsql/thecode-cli"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+- Command line
 
 ---
 
