@@ -27,7 +27,7 @@ I enjoy building full-stack applications, mobile apps and APIs, from prototypes 
 ## 🚧 Currently working on
 
 - ⚡️ Flowpedia: [New project] A infinite flow of wikipedia page to always learn new stuff!
-- 🔐 TheCode: User accounts to sync an end-to-end encrypted vault across all devices (web, mobile, extensions)
+- 🔐 TheCode: User accounts to sync an encrypted vault across all devices (web, mobile, extensions)
 
 ---
 
