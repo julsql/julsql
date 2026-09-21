@@ -51,13 +51,14 @@ This approach removes the need for a password database, eliminates synchronizati
 
 Available on web, mobile, and browser extensions for a unified experience.
 
-| Platform | Links |
-|---|---|
-| 🌐 Web | [thecode.julsql.fr](https://thecode.julsql.fr) |
-| 🔌 API | [thecode-api.julsql.fr](https://thecode-api.julsql.fr) |
-| 📱 Mobile | [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en) · [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043) |
-| 🧩 Extensions | [Chrome](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen) · [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/) · [Safari](https://apps.apple.com/app/thecode-password-manager/id6753169043) |
-| ⌨️ CLI | Command line |
+[![Web](https://img.shields.io/badge/Web-thecode.julsql.fr-0A66C2?logo=googlechrome&logoColor=white)](https://thecode.julsql.fr)
+[![API](https://img.shields.io/badge/API-thecode--api.julsql.fr-6BA539?logo=openapiinitiative&logoColor=white)](https://thecode-api.julsql.fr)
+[![Google Play](https://img.shields.io/badge/Google_Play-Android-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/app/thecode-password-manager/id6753169043)
+[![Chrome](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen)
+[![Firefox](https://img.shields.io/badge/Firefox-Add--on-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/fr/firefox/addon/thecode/)
+[![Safari](https://img.shields.io/badge/Safari-Extension-006CFF?logo=safari&logoColor=white)](https://apps.apple.com/app/thecode-password-manager/id6753169043)
+![CLI](https://img.shields.io/badge/CLI-Command_line-4D4D4D?logo=gnubash&logoColor=white)
 
 ---
 
@@ -98,11 +99,10 @@ A playable, retro **Zelda-style portfolio** where every production project is a 
 
 An AI Chatbot to manage agenda. Available as a website or mobile application.
 
-| Platform | Links |
-|---|---|
-| 🌐 Web | [jimi.julsql.fr](http://jimi.julsql.fr) |
-| 🔌 API | [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/) |
-| 📱 Mobile | [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en) · [iOS](https://apps.apple.com/fr/app/jimi-the-chatbot/id6764839053) |
+[![Web](https://img.shields.io/badge/Web-jimi.julsql.fr-0A66C2?logo=googlechrome&logoColor=white)](http://jimi.julsql.fr)
+[![API](https://img.shields.io/badge/API-jimi--api.julsql.fr-6BA539?logo=swagger&logoColor=white)](https://jimi-api.julsql.fr/swagger-ui/index.html#/)
+[![Google Play](https://img.shields.io/badge/Google_Play-Android-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/fr/app/jimi-the-chatbot/id6764839053)
 
 ---
 
