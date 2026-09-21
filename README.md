@@ -96,7 +96,7 @@ The platform also allows users to explore public collections from others, with a
 
 ---
 
-## 🤖 JIMI
+## 🤖 JIMI <a href="https://github.com/julsql/jimi"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
@@ -105,9 +105,9 @@ The platform also allows users to explore public collections from others, with a
 
 An AI Chatbot to manage agenda. Available as a website or mobile application.
 
-🔗 Web app: [jimi.julsql.fr](http://jimi.julsql.fr) <a href="https://github.com/julsql/jimi_app"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 Web app: [jimi.julsql.fr](http://jimi.julsql.fr)
 
-🔗 API: [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/) <a href="https://github.com/julsql/jimi_api"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 API: [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/)
 
 📱 Mobile apps:
 - [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
