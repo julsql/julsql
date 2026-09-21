@@ -98,13 +98,11 @@ A playable, retro **Zelda-style portfolio** where every production project is a 
 
 An AI Chatbot to manage agenda. Available as a website or mobile application.
 
-🔗 Web app: [jimi.julsql.fr](http://jimi.julsql.fr)
-
-🔗 API: [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/)
-
-📱 Mobile apps:
-- [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en)
-- [iOS](https://apps.apple.com/fr/app/jimi-the-chatbot/id6764839053)
+| Platform | Links |
+|---|---|
+| 🌐 Web | [jimi.julsql.fr](http://jimi.julsql.fr) |
+| 🔌 API | [jimi-api.julsql.fr](https://jimi-api.julsql.fr/swagger-ui/index.html#/) |
+| 📱 Mobile | [Android](https://play.google.com/store/apps/details?id=fr.tsp.jimithechatbot&hl=en) · [iOS](https://apps.apple.com/fr/app/jimi-the-chatbot/id6764839053) |
 
 ---
 
