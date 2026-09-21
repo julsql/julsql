@@ -6,7 +6,7 @@ I enjoy building full-stack applications, mobile apps and APIs, from prototypes 
 
 ---
 
-## 🕹️ Interactive Portfolio
+## 🕹️ Interactive Portfolio <a href="https://github.com/julsql/portfolio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -14,7 +14,7 @@ I enjoy building full-stack applications, mobile apps and APIs, from prototypes 
 
 A playable, retro **Zelda-style portfolio** where every production project is a place to explore on the map. Grab the sword, free Princess Zelda, and walk onto each project's landmark to discover it! Bilingual (FR/EN), with chiptune audio and full keyboard & mouse navigation.
 
-🔗 [portfolio.julsql.fr](https://portfolio.julsql.fr) <a href="https://github.com/julsql/portfolio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [portfolio.julsql.fr](https://portfolio.julsql.fr)
 
 ## 🧰 Main Stack
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
@@ -80,7 +80,7 @@ Available on web, mobile, and browser extensions for a unified experience.
 
 ---
 
-## 🦜 Speciarium
+## 🦜 Speciarium <a href="https://github.com/julsql/speciarium"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
@@ -92,7 +92,7 @@ Users can upload photos of observed species, automatically geolocated on an inte
 
 The platform also allows users to explore public collections from others, with a full user system (authentication, permissions, and privacy controls).
 
-🔗 [speciarium.julsql.fr](http://speciarium.julsql.fr) <a href="https://github.com/julsql/speciarium"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [speciarium.julsql.fr](http://speciarium.julsql.fr)
 
 ---
 
@@ -115,7 +115,7 @@ An AI Chatbot to manage agenda. Available as a website or mobile application.
 
 ---
 
-## 📸 Exif Tools
+## 📸 Exif Tools <a href="https://github.com/julsql/exif-tools"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/-PyQt6-41CD52?logo=qt&logoColor=white)
@@ -123,22 +123,22 @@ An AI Chatbot to manage agenda. Available as a website or mobile application.
 
 Python-based tool for image metadata editing (GPS, timestamps) with AI-powered species detection.
 
-🔗 https://github.com/julsql/exif-tools/releases/latest <a href="https://github.com/julsql/exif-tools"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 https://github.com/julsql/exif-tools/releases/latest
 
 ---
 
-## 💬 Codexio
+## 💬 Codexio <a href="https://github.com/julsql/codexio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 Books & comics collection manager with ISBN API integration.
 
-🔗 [codexio.julsql.fr](https://codexio.julsql.fr) <a href="https://github.com/julsql/codexio"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [codexio.julsql.fr](https://codexio.julsql.fr)
 
 ---
 
-## 🪶 Rimbot
+## 🪶 Rimbot <a href="https://github.com/julsql/rimbot"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
@@ -149,11 +149,11 @@ Books & comics collection manager with ISBN API integration.
 
 Web generator of French poems respecting a free form (sonnet, haiku, ballad…) with imposed rhymes and meters.
 
-🔗 [rimbot.julsql.fr](http://rimbot.julsql.fr) <a href="https://github.com/julsql/rimbot"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [rimbot.julsql.fr](http://rimbot.julsql.fr)
 
 ---
 
-## 🧙‍♀️ Lilianastrade
+## 🧙‍♀️ Lilianastrade <a href="https://github.com/julsql/lilianastrade"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
 
 ![PHP](https://img.shields.io/badge/-PHP_8.3-777BB4?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony_5.4-000000?logo=symfony&logoColor=white)
@@ -163,7 +163,7 @@ Web generator of French poems respecting a free form (sonnet, haiku, ballad…) 
 
 A web app for managing a Magic: The Gathering card collection (cards, decks, merchants, editions).
   
-🔗 [lilianastrade.julsql.fr](https://lilianastrade.julsql.fr) <a href="https://github.com/julsql/lilianastrade"><img src="images/github_white.png" alt="logo github" width="15" height="15"/></a>
+🔗 [lilianastrade.julsql.fr](https://lilianastrade.julsql.fr)
 
 ---
 
