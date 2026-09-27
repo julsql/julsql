@@ -27,7 +27,7 @@ I enjoy building full-stack applications, mobile apps and APIs, from prototypes 
 ## 🚧 Currently working on
 
 - ⚡️ Flowpedia: [New project] A infinite flow of wikipedia page to always learn new stuff!
-- 🔐 TheCode: User accounts to sync an encrypted vault across all devices (web, mobile, extensions)
+- 🔐 TheCode: End-to-end encrypted sync of the optional vault across all devices (web, iOS, macOS, Android, extensions)
 
 ---
 
@@ -40,24 +40,26 @@ I enjoy building full-stack applications, mobile apps and APIs, from prototypes 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white)
 
-A cross-platform password ecosystem based on deterministic generation.
+A cross-platform password manager that stores no passwords: each one is recomputed from a master key and the website name (PBKDF2 + HMAC-SHA256).
 
-TheCode generates unique and strong passwords from a master key and the website name, without storing any credentials.
+An optional local vault keeps per-site settings and usernames (never passwords), unlocked by biometrics or the master key. With an optional account (email, Google or Apple), the vault syncs automatically with end-to-end encryption (AES-256-GCM): the server only sees opaque blobs. No account? Transfer it through an encrypted QR code or file.
 
-This approach removes the need for a password database, eliminates synchronization risks, and ensures consistent passwords across all devices.
-
-Available on web, mobile, and browser extensions for a unified experience.
+Native autofill on iOS, macOS and Android, an in-page menu in browser extensions. No ads, no trackers, open source.
 
 | Platform | Links |
 |---|---|
 | 🌐 Web | [thecode.julsql.fr](https://thecode.julsql.fr) |
 | 🔌 API | [thecode-api.julsql.fr](https://thecode-api.julsql.fr) |
-| 📱 Mobile | [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en) · [iOS](https://apps.apple.com/app/thecode-password-manager/id6753169043) |
-| 🧩 Extensions | [Chrome](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen) · [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/) · [Safari](https://apps.apple.com/app/thecode-password-manager/id6753169043) |
-| ⌨️ CLI | Command line |
+| 📱 Apps | [iOS / iPadOS / macOS](https://apps.apple.com/app/thecode-password-manager/id6753169043) · [Android](https://play.google.com/store/apps/details?id=fr.juliette.thecode&hl=en) |
+| 🧩 Extensions | [Chrome · Edge · Brave](https://chromewebstore.google.com/detail/thecode/jeknefpalcipdlnbeboefonmnlejepen) · [Firefox](https://addons.mozilla.org/fr/firefox/addon/thecode/) |
+| ⌨️ CLI | [Python CLI](https://github.com/julsql/thecode/tree/main/apps/cli) |
 
 ---
 
